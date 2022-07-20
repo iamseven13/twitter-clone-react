@@ -1,3 +1,8 @@
+This project is not yet completed. For more details, you can check: https://prnt.sc/bIzgRtE9OpnT
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
